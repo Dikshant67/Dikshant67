@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dikshant Wagh</h1>
-<h2 align="center">Associate Software Engineer at Expleo Solutions</h2>
-<h3 align="center">Full stack developer with 1 year of hands on experience in Tricentis Tosca Automation. Loves Problem Solving.</h3>
 
 <p align="left"> <a href="https://x.com/dikswagh_67" target="blank"><img src="https://img.shields.io/twitter/follow/dikswagh_67?logo=twitter&style=for-the-badge" alt="dikswagh_67" /></a> </p>
 
