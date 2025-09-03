@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://x.com/dikswagh_67" target="blank"><img src="https://img.shields.io/twitter/follow/dikswagh_67?logo=twitter&style=for-the-badge" alt="dikswagh_67" /></a> </p>
 
-- 🔭 I’m currently working on **SPRINGBOOT JAVA ,REACTJS AND PYTHON DEVELOPEMENT *
+- 🔭 I’m currently working on **SPRINGBOOT JAVA ,REACTJS AND PYTHON DEVELOPEMENT **
 
 - 🌱 I’m currently learning **REACTJS | Python | FastAPI**
 
