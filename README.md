@@ -9,7 +9,7 @@
 - 💬 Ask me about **SpringBoot | Java | MySQL**
 
 - 📫 How to reach me **dikshantwagh68@gmail.com**
-- ### 
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/waghdikshant5?theme=dark&font=Abel)
 
 <h3 align="left">Connect with me:</h3>
